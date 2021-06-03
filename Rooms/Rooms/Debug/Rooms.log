@@ -1,0 +1,8 @@
+﻿  Rooms.cpp
+C:\Users\DELL\Documents\Rooms\Rooms\Rooms.cpp(122,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Documents\Rooms\Rooms\Rooms.cpp(126,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Documents\Rooms\Rooms\Rooms.cpp(141,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Documents\Rooms\Rooms\Rooms.cpp(147,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Documents\Rooms\Rooms\Rooms.cpp(153,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Documents\Rooms\Rooms\Rooms.cpp(159,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Rooms.vcxproj -> C:\Users\DELL\Documents\Rooms\Debug\Rooms.exe
